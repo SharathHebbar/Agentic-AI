@@ -2,7 +2,7 @@
 
 The framework of Agentic AI
 
-![alt text](ai agents.png)
+![alt text](https://github.com/SharathHebbar/Agentic-AI/blob/main/ai%20agents.png)
 
 1. Brain: The brain consists of a AI model which can be a Language Model or a Vision Model. Examples are GPT4o, LLAMA, DALL-E and so on.
 For more info: [LLM](https://python.langchain.com/docs/integrations/providers/)
