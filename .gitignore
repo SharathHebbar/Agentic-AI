@@ -1,1 +1,4 @@
-ai agents.drawio
+*.drawio
+agents/
+.env
+DuckDuckGo_WebSearch/
