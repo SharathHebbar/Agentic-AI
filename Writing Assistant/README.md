@@ -1,4 +1,4 @@
 # Writing Agent
 
-!(Writing Assistant\assets\writing_assistant.png)[Screenshot]
+![Screenshot](https://github.com/SharathHebbar/Agentic-AI/blob/main/Writing%20Assistant/assets/writing_assistant.png)
 
